@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["break-in", "henry", [146, 113, 253]],
+		["midnight", "henry", [146, 113, 253]],
+		["tickets-please", "henry_angry", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "A free man",
+	"weekBefore": "tutorial",
+	"weekName": "Rival1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
